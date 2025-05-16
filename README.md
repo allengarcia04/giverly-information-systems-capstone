@@ -49,11 +49,9 @@ This capstone project demonstrates business systems analysis, UX design, stakeho
 
 | Tool                    | Purpose                                        |
 | ----------------------- | ---------------------------------------------- |
-| **Jira**                | Task management, user stories, sprint tracking |
+| **Jira and Confluence** | Task management, user stories, sprint tracking |
 | **Figma**               | Personas, wireframes, UI/UX prototypes         |
 | **Canva**               | Journey maps and stakeholder visualizations    |
-| **Microsoft Excel**     | Timeline, schedule, stakeholder lists          |
-| **PDF & Image Editors** | Document formatting and export                 |
 
 ---
 
